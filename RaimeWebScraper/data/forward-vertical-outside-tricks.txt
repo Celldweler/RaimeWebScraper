@@ -1,0 +1,188 @@
+Id=dive-roll;Name=Dive Roll;Categories=forward,frontflip;Prerequisites=none
+Id=webster-half;Name=Webster Half;Categories=forward,webster;Prerequisites=front-half
+Id=webster;Name=Webster;Categories=forward,webster;Prerequisites=front-tuck,aerial
+Id=webster-hyperhook;Name=Webster Hyperhook;Categories=forward,webster;Prerequisites=webster-half
+Id=front-x-out;Name=Front X-Out;Categories=forward,frontflip;Prerequisites=front-tuck
+Id=webster-axe;Name=Webster Axe;Categories=forward,webster;Prerequisites=webster
+Id=janitor-flip;Name=Janitor Flip;Categories=forward,janitor;Prerequisites=butterfly-kick
+Id=front-handspring;Name=Front Handspring;Categories=forward,frontflip;Prerequisites=none
+Id=front-pike;Name=Front Pike;Categories=forward,frontflip;Prerequisites=front-tuck
+Id=front-half;Name=Front Half;Categories=forward,frontflip;Prerequisites=front-tuck
+Id=russian-front;Name=Russian Front;Categories=forward,frontflip;Prerequisites=front-tuck
+Id=front-tuck;Name=Front Tuck;Categories=forward,frontflip;Prerequisites=dive-roll
+Id=front-axe;Name=Front Axe;Categories=forward,frontflip;Prerequisites=front-tuck
+Id=superman-front;Name=Superman Front;Categories=forward,frontflip;Prerequisites=front-tuck
+Id=webster-x-out;Name=Webster X-Out;Categories=forward,webster;Prerequisites=webster,front-x-out
+Id=rodeo-janitor-twist;Name=Rodeo Janitor Twist;Categories=forward,janitor;Prerequisites=janitor-twist
+Id=janitor-scissor-twist;Name=Janitor Scissor Twist;Categories=forward,janitor;Prerequisites=janitor-flip
+Id=handcuff-360-dive-roll;Name=Handcuff 360 Dive Roll;Categories=forward,frontflip;Prerequisites=360-dive-roll
+Id=janitor-twist;Name=Janitor Twist;Categories=forward,janitor;Prerequisites=butterfly-twist
+Id=360-cartwheel-twist;Name=360 Cartwheel Twist;Categories=forward,frontflip;Prerequisites=360-cartwheel
+Id=e-kick;Name=E-Kick;Categories=outside,spyder;Prerequisites=palmkick
+Id=machine;Name=Machine;Categories=outside,spyder;Prerequisites=none
+Id=scrubba;Name=Scrubba;Categories=outside,raiz;Prerequisites=sailor-moon,touchdown-raiz
+Id=sideflip;Name=Sideflip;Categories=outside,sideflip;Prerequisites=none
+Id=sailor-moon-hyperhook;Name=Sailor Moon Hyperhook;Categories=outside,raiz;Prerequisites=sailor-moon
+Id=raiz;Name=Raiz;Categories=outside,raiz;Prerequisites=gumbi,tornado
+Id=sailor-moon-doubleleg;Name=Sailor Moon Doubleleg;Categories=outside,raiz;Prerequisites=sailor-moon
+Id=sideflip-round;Name=Sideflip Round;Categories=outside,sideflip;Prerequisites=sideflip
+Id=sailor-moon-round;Name=Sailor Moon Round;Categories=outside,raiz;Prerequisites=sailor-moon
+Id=gumbi;Name=Gumbi;Categories=outside,raiz;Prerequisites=cartwheel
+Id=reversao;Name=Reversao;Categories=outside,raiz;Prerequisites=compasso
+Id=sailor-moon-hawkeye;Name=Sailor Moon Hawkeye;Categories=outside,raiz;Prerequisites=sailor-moon
+Id=swipeknife;Name=Swipeknife;Categories=outside,raiz;Prerequisites=sideswipe,jackknife
+Id=sailor-moon;Name=Sailor Moon;Categories=outside,raiz;Prerequisites=raiz
+Id=doubleleg-x-out;Name=Doubleleg X-Out;Categories=outside,doubleleg;Prerequisites=doubleleg
+Id=pop-swipeknife;Name=Pop Swipeknife;Categories=outside,doubleleg;Prerequisites=pop-swipe
+Id=doubleleg-x-out-hyperhook;Name=Doubleleg X-Out Hyperhook;Categories=outside,doubleleg;Prerequisites=doubleleg-x-out
+Id=touchdown-swipe;Name=Touchdown Swipe;Categories=outside,raiz;Prerequisites=touchdown-raiz,sideswipe
+Id=sailor-gumbi;Name=Sailor Gumbi;Categories=outside,raiz;Prerequisites=gumbi,sailor-moon
+Id=spyder;Name=Spyder;Categories=outside,spyder;Prerequisites=none
+Id=sailor-moon-reversao;Name=Sailor Moon Reversao;Categories=outside,raiz;Prerequisites=sailor-moon
+Id=sideswipe;Name=Sideswipe;Categories=outside,raiz;Prerequisites=raiz,540
+Id=doubleleg-sidekick;Name=Doubleleg Sidekick;Categories=outside,doubleleg;Prerequisites=doubleleg
+Id=doubleleg-rodeo;Name=Doubleleg Rodeo;Categories=outside,doubleleg;Prerequisites=doubleleg
+Id=raiz-hyperhook;Name=Raiz Hyperhook;Categories=outside,raiz;Prerequisites=raiz,cheat-720
+Id=pop-tai-fighter;Name=Pop Tai Fighter;Categories=outside,doubleleg;Prerequisites=pop-tornado
+Id=envergado;Name=Envergado;Categories=outside,raiz;Prerequisites=sideswipe
+Id=raiz-reversao;Name=Raiz Reversao;Categories=outside,raiz;Prerequisites=raiz,reversao
+Id=sailor-moon-wackknife;Name=Sailor Moon Wackknife;Categories=outside,raiz;Prerequisites=sailor-moon,wackknife
+Id=doubleleg;Name=Doubleleg;Categories=outside,doubleleg;Prerequisites=pop-360
+Id=touchdown-raiz;Name=Touchdown Raiz;Categories=outside,raiz;Prerequisites=raiz
+Id=lotus-doubleleg;Name=Lotus Doubleleg;Categories=outside,lotus;Prerequisites=doubleleg
+Id=lotus-rodeo;Name=Lotus Rodeo;Categories=outside,lotus;Prerequisites=lotus-doubleleg
+Id=crackknife;Name=Crackknife;Categories=outside,raiz;Prerequisites=wackknife,sideswipe
+Id=spyder-twist;Name=Spyder Twist;Categories=outside,spyder;Prerequisites=spyder,butterfly-twist
+Id=doubleleg-twist;Name=Doubleleg Twist;Categories=outside,doubleleg;Prerequisites=doubleleg
+Id=doubleleg-double-twist;Name=Doubleleg Double Twist;Categories=outside,doubleleg;Prerequisites=doubleleg-twist
+Id=broken-scrubba;Name=Broken Scrubba;Categories=outside,raiz;Prerequisites=scrubba,broken-touchdown-raiz
+Id=lotus-crowd-awakener;Name=Lotus Crowd Awakener;Categories=outside,lotus;Prerequisites=lotus-doubleleg
+Id=touchdown-raiz-roll;Name=Touchdown Raiz Roll;Categories=outside,raiz;Prerequisites=touchdown-raiz
+Id=doubleleg-twist-round;Name=Doubleleg Twist Round;Categories=outside,doubleleg;Prerequisites=doubleleg
+Id=spyder-twist-round;Name=Spyder Twist Round;Categories=outside,spyder;Prerequisites=spyder-twist
+Id=swipeknife-turbo;Name=Swipeknife Turbo;Categories=outside,raiz;Prerequisites=swipeknife
+Id=sideswipe-late-round;Name=Sideswipe Late Round;Categories=outside,raiz;Prerequisites=sideswipe
+Id=double-doubleleg;Name=Double Doubleleg;Categories=outside,doubleleg;Prerequisites=doubleleg
+Id=lotus-late-round;Name=Lotus Late Round;Categories=outside,lotus;Prerequisites=lotus-doubleleg
+Id=lotus-shuriken;Name=Lotus Shuriken;Categories=outside,lotus;Prerequisites=lotus-doubleleg
+Id=lotus-doubleleg-hyperhook;Name=Lotus Doubleleg Hyperhook;Categories=outside,lotus;Prerequisites=lotus-doubleleg
+Id=pop-snapu;Name=Pop Snapu;Categories=outside,doubleleg;Prerequisites=pop-swipe
+Id=cheat-720-twist-broken;Name=Cheat 720 Twist Broken;Categories=outside,raiz;Prerequisites=cheat-720-twist
+Id=raiz-hyperhook-turbo;Name=Raiz Hyperhook Turbo;Categories=outside,raiz;Prerequisites=raiz-hyperhook
+Id=sideswipe-late-swipe;Name=Sideswipe Late Swipe;Categories=outside,raiz;Prerequisites=sideswipe-late-round
+Id=snapu;Name=Snapu;Categories=outside,raiz;Prerequisites=sideswipe
+Id=snapu-round;Name=Snapu Round;Categories=outside,raiz;Prerequisites=snapu
+Id=sailor-moon-late-round;Name=Sailor Moon Late Round;Categories=outside,raiz;Prerequisites=sailor-moon
+Id=touchdown-raiz-twist;Name=Touchdown Raiz Twist;Categories=outside,raiz;Prerequisites=touchdown-raiz,snapu
+Id=cheat-720-twist;Name=Cheat 720 Twist;Categories=outside,raiz;Prerequisites=raiz,butterfly-twist,cheat-900
+Id=sailor-moon-twist;Name=Sailor Moon Twist;Categories=outside,raiz;Prerequisites=sailor-moon,cheat-720-twist
+Id=snapu-doubleleg;Name=Snapu Doubleleg;Categories=outside,raiz;Prerequisites=snapu
+Id=rodeo-snapu;Name=Rodeo Snapu;Categories=outside,raiz;Prerequisites=snapu
+Id=cheat-720-twist-round;Name=Cheat 720 Twist Round;Categories=outside,raiz;Prerequisites=cheat-720-twist,cheat-900
+Id=feilong-snapu;Name=Feilong Snapu;Categories=outside,raiz;Prerequisites=snapu
+Id=sailor-moon-snapu;Name=Sailor Moon Snapu;Categories=outside,raiz;Prerequisites=sailor-moon,snapu
+Id=envergado-twist;Name=Envergado Twist;Categories=outside,raiz;Prerequisites=envergado
+Id=double-sideflip;Name=Double Sideflip;Categories=outside,sideflip;Prerequisites=sideflip
+Id=envergado-double-twist;Name=Envergado Double Twist;Categories=outside,raiz;Prerequisites=envergado-twist
+Id=raiz-shurikane;Name=Raiz Shurikane;Categories=outside,raiz;Prerequisites=hurricane-kick
+Id=cali-roll;Name=Cali Roll;Categories=outside,raiz;Prerequisites=cheat-720-twist
+Id=cheat-720-twist-hyperhook;Name=Cheat 720 Twist Hyperhook;Categories=outside,raiz;Prerequisites=cheat-720-twist,cheat-1080
+Id=snapu-hyperhook;Name=Snapu Hyperhook;Categories=outside,raiz;Prerequisites=snapu
+Id=snapu-twist;Name=Snapu Twist;Categories=outside,raiz;Prerequisites=snapu
+Id=sailor-moon-doubleleg-twist;Name=Sailor Moon Doubleleg Twist;Categories=outside,raiz;Prerequisites=sailor-moon-doubleleg
+Id=raiz-in;Name=Raiz-In;Categories=outside,raiz;Prerequisites=raiz
+Id=pop-360-shuriken;Name=Pop 360 Shuriken;Categories=vertical-kick,pop-kick;Prerequisites=pop-360
+Id=skip-hook;Name=Skip Hook;Categories=vertical-kick,swing-kick;Prerequisites=spin-hook
+Id=pop-tornado;Name=Pop Tornado;Categories=vertical-kick,pop-kick;Prerequisites=tornado
+Id=backside-720;Name=Backside 720;Categories=vertical-kick,pop-kick;Prerequisites=skip-hook
+Id=pop-feilong;Name=Pop Feilong;Categories=vertical-kick,pop-kick;Prerequisites=pop-360-shuriken,pop-tornado
+Id=tornado;Name=Tornado;Categories=vertical-kick,cheat-kick;Prerequisites=none
+Id=pop-360;Name=Pop 360;Categories=vertical-kick,pop-kick;Prerequisites=none
+Id=swing-360;Name=Swing 360;Categories=vertical-kick,swing-kick;Prerequisites=pop-360
+Id=cheat-double-hook;Name=Cheat Double Hook;Categories=vertical-kick,cheat-kick;Prerequisites=skip-hook
+Id=tornado-sidekick;Name=Tornado Sidekick;Categories=vertical-kick,cheat-kick;Prerequisites=tornado
+Id=pop-720;Name=Pop 720;Categories=vertical-kick,pop-kick;Prerequisites=pop-540
+Id=cheat-720;Name=Cheat 720;Categories=vertical-kick,cheat-kick;Prerequisites=skip-hook
+Id=cheat-feilong;Name=Cheat Feilong;Categories=vertical-kick,cheat-kick;Prerequisites=tornado
+Id=backside-900-sidekick;Name=Backside 900 Sidekick;Categories=vertical-kick,pop-kick;Prerequisites=backside-900
+Id=crowd-awakener;Name=Crowd Awakener;Categories=vertical-kick,cheat-kick;Prerequisites=tornado
+Id=pop-720-double;Name=Pop 720 Double;Categories=vertical-kick,pop-kick;Prerequisites=pop-720
+Id=540;Name=540;Categories=vertical-kick,cheat-kick;Prerequisites=tornado
+Id=backside-900-feilong;Name=Backside 900 Feilong;Categories=vertical-kick,pop-kick;Prerequisites=backside-900,pop-feilong
+Id=pop-540;Name=Pop 540;Categories=vertical-kick,pop-kick;Prerequisites=pop-tornado
+Id=backside-900;Name=Backside 900;Categories=vertical-kick,pop-kick;Prerequisites=pop-tornado
+Id=parafuso;Name=Parafuso;Categories=vertical-kick,cheat-kick;Prerequisites=tornado
+Id=parafuso-hawkeye;Name=Parafuso Hawkeye;Categories=vertical-kick,cheat-kick;Prerequisites=parafuso
+Id=parafuso-twist-kick;Name=Parafuso Twist-Kick;Categories=vertical-kick,cheat-kick;Prerequisites=parafuso
+Id=cheat-720-double;Name=Cheat 720 Double;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-720
+Id=tornado-hawkeye;Name=Tornado Hawkeye;Categories=vertical-kick,cheat-kick;Prerequisites=tornado
+Id=pop-feilong-knife;Name=Pop Feilong Knife;Categories=vertical-kick,pop-kick;Prerequisites=pop-feilong
+Id=cheat-720-shuriken;Name=Cheat 720 Shuriken;Categories=vertical-kick,cheat-kick;Prerequisites=pop-360-shuriken
+Id=paraknife;Name=Paraknife;Categories=vertical-kick,cheat-kick;Prerequisites=parafuso,jackknife
+Id=tornado-double;Name=Tornado Double;Categories=vertical-kick,cheat-kick;Prerequisites=tornado
+Id=backside-900-hyper;Name=Backside 900 Hyper;Categories=vertical-kick,pop-kick;Prerequisites=backside-900,540
+Id=swing-900;Name=Swing 900;Categories=vertical-kick,swing-kick;Prerequisites=backside-900
+Id=backside-1080;Name=Backside 1080;Categories=vertical-kick,pop-kick;Prerequisites=backside-900
+Id=twist-knife;Name=Twist Knife;Categories=vertical-kick,cheat-kick;Prerequisites=jackknife
+Id=swing-900-sidekick;Name=Swing 900 Sidekick;Categories=vertical-kick,swing-kick;Prerequisites=swing-900-sidekick
+Id=cheat-720-turbo;Name=Cheat 720 Turbo;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-720,swing-360
+Id=cheat-900-rodeo;Name=Cheat 900 Rodeo;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900
+Id=wackknife-turbo;Name=Wackknife Turbo;Categories=vertical-kick,cheat-kick;Prerequisites=wackknife
+Id=pop-360-gyro;Name=Pop 360 Gyro;Categories=vertical-kick,pop-kick;Prerequisites=pop-360
+Id=jackknife-turbo;Name=Jackknife Turbo;Categories=vertical-kick,cheat-kick;Prerequisites=jackknife,tsunami
+Id=cheat-900-doubleleg;Name=Cheat 900 Doubleleg;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900,parafuso
+Id=wackest-knife;Name=Wackest Knife;Categories=vertical-kick,cheat-kick;Prerequisites=wackknife
+Id=cheat-900-sidekick;Name=Cheat 900 Sidekick;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900
+Id=cheat-900-feilong;Name=Cheat 900 Feilong;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900
+Id=backside-900-knife;Name=Backside 900 Knife;Categories=vertical-kick,pop-kick;Prerequisites=backside-1080,jackknife
+Id=cheat-900-double;Name=Cheat 900 Double;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900
+Id=cheat-900;Name=Cheat 900;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-720,backside-900
+Id=jackknife;Name=Jackknife;Categories=vertical-kick,cheat-kick;Prerequisites=540,cheat-720
+Id=wackknife;Name=Wackknife;Categories=vertical-kick,cheat-kick;Prerequisites=tornado
+Id=wackknife-doubleleg;Name=Wackknife Doubleleg;Categories=vertical-kick,cheat-kick;Prerequisites=wackknife
+Id=cheat-900-double-tai-fighter;Name=Cheat 900 Double Tai Fighter;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900
+Id=jackknife-shuriken;Name=Jackknife Shuriken;Categories=vertical-kick,cheat-kick;Prerequisites=jackknife
+Id=wackknife-round;Name=Wackknife Round;Categories=vertical-kick,cheat-kick;Prerequisites=wackknife
+Id=crowd-awakener-knife;Name=Crowd Awakener Knife;Categories=vertical-kick,cheat-kick;Prerequisites=crowd-awakener,jackknife
+Id=cheat-900-crowd-awakener;Name=Cheat 900 Crowd Awakener;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900,crowd-awakener
+Id=cheat-1080;Name=Cheat 1080;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900,backside-1080
+Id=cheat-900-knife;Name=Cheat 900 Knife;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1080,cheat-900-hyper
+Id=cheat-900-paraknife;Name=Cheat 900 Paraknife;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900-doubleleg
+Id=pop-900-hyper;Name=Pop 900 Hyper;Categories=vertical-kick,pop-kick;Prerequisites=pop-900
+Id=backside-1260;Name=Backside 1260;Categories=vertical-kick,pop-kick;Prerequisites=backside-1080
+Id=swing-1080;Name=Swing 1080;Categories=vertical-kick,swing-kick;Prerequisites=swing-900
+Id=cheat-1080-double;Name=Cheat 1080 Double;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1080
+Id=pop-360-gyro-round;Name=Pop 360 Gyro Round;Categories=vertical-kick,pop-kick;Prerequisites=pop-360-gyro
+Id=hurricane-kick;Name=Hurricane Kick;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1080
+Id=pop-900;Name=Pop 900;Categories=vertical-kick,pop-kick;Prerequisites=pop-720,backside-900
+Id=backside-1260-feilong;Name=Backside 1260 Feilong;Categories=vertical-kick,pop-kick;Prerequisites=backside-1260,backside-900-feilong
+Id=swing-900-knife;Name=Swing 900 Knife;Categories=vertical-kick,swing-kick;Prerequisites=swing-900,jackknife
+Id=cheat-900-hyper;Name=Cheat 900 Hyper;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900
+Id=backside-900-gyro;Name=Backside 900 Gyro;Categories=vertical-kick,pop-kick;Prerequisites=backisde-900-hyper,540-gyro
+Id=cheat-900-crowd-awakener-knife;Name=Cheat 900 Crowd Awakener Knife;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900-crowd-awakener
+Id=backside-1260-wackknife;Name=Backside 1260 Wackknife;Categories=vertical-kick,pop-kick;Prerequisites=backside-1260,wackknife
+Id=pop-360-gyro-doubleleg;Name=Pop 360 Gyro Doubleleg;Categories=vertical-kick,pop-kick;Prerequisites=pop-360-gyro
+Id=540-gyro;Name=540 Gyro;Categories=vertical-kick,cheat-kick;Prerequisites=540
+Id=pop-1080;Name=Pop 1080;Categories=vertical-kick,pop-kick;Prerequisites=pop-900
+Id=parafuso-gyro;Name=Parafuso Gyro;Categories=vertical-kick,cheat-kick;Prerequisites=parafuso
+Id=jackknife-1080;Name=Jackknife 1080;Categories=vertical-kick,cheat-kick;Prerequisites=jackknife,cheat-1080
+Id=backside-1260-feilong-knife;Name=Backside 1260 Feilong Knife;Categories=vertical-kick,pop-kick;Prerequisites=backside-1260-feilong,backside-1440
+Id=backside-1620;Name=Backside 1620;Categories=vertical-kick,pop-kick;Prerequisites=backside-1440
+Id=backside-1080-shuriken;Name=Backside 1080 Shuriken;Categories=vertical-kick,pop-kick;Prerequisites=backside-1080,pop-360
+Id=cheat-1260;Name=Cheat 1260;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1080,backside-1260
+Id=cheat-900-gyro;Name=Cheat 900 Gyro;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900-hyper,540-gyro
+Id=cheat-900-double-hyper;Name=Cheat 900 Double Hyper;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900-double
+Id=pop-1440;Name=Pop 1440;Categories=vertical-kick,pop-kick;Prerequisites=backside-1440,pop-1260
+Id=cheat-900-doubleleg-twist;Name=Cheat 900 Doubleleg Twist;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900-doubleleg
+Id=cheat-1620;Name=Cheat 1620;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1440
+Id=cheat-1440;Name=Cheat 1440;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1260
+Id=backside-1260-knife;Name=Backside 1260 Knife;Categories=vertical-kick,pop-kick;Prerequisites=backside-1260,backside-1440
+Id=cheat-1260-doubleleg;Name=Cheat 1260 Doubleleg;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1260,cheat-900-doubleleg
+Id=cheat-900-double-knife;Name=Cheat 900 Double Knife;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900-knife,cheat-900-double
+Id=backside-1440;Name=Backside 1440;Categories=vertical-kick,pop-kick;Prerequisites=backside-1260
+Id=540-gyroknife;Name=540 Gyroknife;Categories=vertical-kick,cheat-kick;Prerequisites=540-gyro
+Id=cheat-1260-double;Name=Cheat 1260 Double;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1260
+Id=cheat-1260-hyper;Name=Cheat 1260 Hyper;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1260
+Id=cheat-1080-shuriken;Name=Cheat 1080 Shuriken;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1260,cheat-720-shuriken
+Id=pop-1260;Name=Pop 1260;Categories=vertical-kick,pop-kick;Prerequisites=pop-1080
+Id=swing-1260;Name=Swing 1260;Categories=vertical-kick,swing-kick;Prerequisites=swing-1080

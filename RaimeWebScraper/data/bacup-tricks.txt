@@ -1,0 +1,558 @@
+Id=dive-roll;Name=Dive Roll;Categories=forward,frontflip;Prerequisites=none
+Id=webster-half;Name=Webster Half;Categories=forward,webster;Prerequisites=front-half
+Id=webster;Name=Webster;Categories=forward,webster;Prerequisites=front-tuck,aerial
+Id=webster-hyperhook;Name=Webster Hyperhook;Categories=forward,webster;Prerequisites=webster-half
+Id=front-x-out;Name=Front X-Out;Categories=forward,frontflip;Prerequisites=front-tuck
+Id=webster-axe;Name=Webster Axe;Categories=forward,webster;Prerequisites=webster
+Id=janitor-flip;Name=Janitor Flip;Categories=forward,janitor;Prerequisites=butterfly-kick
+Id=front-handspring;Name=Front Handspring;Categories=forward,frontflip;Prerequisites=none
+Id=front-pike;Name=Front Pike;Categories=forward,frontflip;Prerequisites=front-tuck
+Id=front-half;Name=Front Half;Categories=forward,frontflip;Prerequisites=front-tuck
+Id=russian-front;Name=Russian Front;Categories=forward,frontflip;Prerequisites=front-tuck
+Id=front-tuck;Name=Front Tuck;Categories=forward,frontflip;Prerequisites=dive-roll
+Id=front-axe;Name=Front Axe;Categories=forward,frontflip;Prerequisites=front-tuck
+Id=superman-front;Name=Superman Front;Categories=forward,frontflip;Prerequisites=front-tuck
+Id=webster-x-out;Name=Webster X-Out;Categories=forward,webster;Prerequisites=webster,front-x-out
+Id=rodeo-janitor-twist;Name=Rodeo Janitor Twist;Categories=forward,janitor;Prerequisites=janitor-twist
+Id=janitor-scissor-twist;Name=Janitor Scissor Twist;Categories=forward,janitor;Prerequisites=janitor-flip
+Id=handcuff-360-dive-roll;Name=Handcuff 360 Dive Roll;Categories=forward,frontflip;Prerequisites=360-dive-roll
+Id=janitor-twist;Name=Janitor Twist;Categories=forward,janitor;Prerequisites=butterfly-twist
+Id=360-cartwheel-twist;Name=360 Cartwheel Twist;Categories=forward,frontflip;Prerequisites=360-cartwheel
+Id=e-kick;Name=E-Kick;Categories=outside,spyder;Prerequisites=palmkick
+Id=machine;Name=Machine;Categories=outside,spyder;Prerequisites=none
+Id=scrubba;Name=Scrubba;Categories=outside,raiz;Prerequisites=sailor-moon,touchdown-raiz
+Id=sideflip;Name=Sideflip;Categories=outside,sideflip;Prerequisites=none
+Id=sailor-moon-hyperhook;Name=Sailor Moon Hyperhook;Categories=outside,raiz;Prerequisites=sailor-moon
+Id=raiz;Name=Raiz;Categories=outside,raiz;Prerequisites=gumbi,tornado
+Id=sailor-moon-doubleleg;Name=Sailor Moon Doubleleg;Categories=outside,raiz;Prerequisites=sailor-moon
+Id=sideflip-round;Name=Sideflip Round;Categories=outside,sideflip;Prerequisites=sideflip
+Id=sailor-moon-round;Name=Sailor Moon Round;Categories=outside,raiz;Prerequisites=sailor-moon
+Id=gumbi;Name=Gumbi;Categories=outside,raiz;Prerequisites=cartwheel
+Id=reversao;Name=Reversao;Categories=outside,raiz;Prerequisites=compasso
+Id=sailor-moon-hawkeye;Name=Sailor Moon Hawkeye;Categories=outside,raiz;Prerequisites=sailor-moon
+Id=swipeknife;Name=Swipeknife;Categories=outside,raiz;Prerequisites=sideswipe,jackknife
+Id=sailor-moon;Name=Sailor Moon;Categories=outside,raiz;Prerequisites=raiz
+Id=doubleleg-x-out;Name=Doubleleg X-Out;Categories=outside,doubleleg;Prerequisites=doubleleg
+Id=pop-swipeknife;Name=Pop Swipeknife;Categories=outside,doubleleg;Prerequisites=pop-swipe
+Id=doubleleg-x-out-hyperhook;Name=Doubleleg X-Out Hyperhook;Categories=outside,doubleleg;Prerequisites=doubleleg-x-out
+Id=touchdown-swipe;Name=Touchdown Swipe;Categories=outside,raiz;Prerequisites=touchdown-raiz,sideswipe
+Id=sailor-gumbi;Name=Sailor Gumbi;Categories=outside,raiz;Prerequisites=gumbi,sailor-moon
+Id=spyder;Name=Spyder;Categories=outside,spyder;Prerequisites=none
+Id=sailor-moon-reversao;Name=Sailor Moon Reversao;Categories=outside,raiz;Prerequisites=sailor-moon
+Id=sideswipe;Name=Sideswipe;Categories=outside,raiz;Prerequisites=raiz,540
+Id=doubleleg-sidekick;Name=Doubleleg Sidekick;Categories=outside,doubleleg;Prerequisites=doubleleg
+Id=doubleleg-rodeo;Name=Doubleleg Rodeo;Categories=outside,doubleleg;Prerequisites=doubleleg
+Id=raiz-hyperhook;Name=Raiz Hyperhook;Categories=outside,raiz;Prerequisites=raiz,cheat-720
+Id=pop-tai-fighter;Name=Pop Tai Fighter;Categories=outside,doubleleg;Prerequisites=pop-tornado
+Id=envergado;Name=Envergado;Categories=outside,raiz;Prerequisites=sideswipe
+Id=raiz-reversao;Name=Raiz Reversao;Categories=outside,raiz;Prerequisites=raiz,reversao
+Id=sailor-moon-wackknife;Name=Sailor Moon Wackknife;Categories=outside,raiz;Prerequisites=sailor-moon,wackknife
+Id=doubleleg;Name=Doubleleg;Categories=outside,doubleleg;Prerequisites=pop-360
+Id=touchdown-raiz;Name=Touchdown Raiz;Categories=outside,raiz;Prerequisites=raiz
+Id=lotus-doubleleg;Name=Lotus Doubleleg;Categories=outside,lotus;Prerequisites=doubleleg
+Id=lotus-rodeo;Name=Lotus Rodeo;Categories=outside,lotus;Prerequisites=lotus-doubleleg
+Id=crackknife;Name=Crackknife;Categories=outside,raiz;Prerequisites=wackknife,sideswipe
+Id=spyder-twist;Name=Spyder Twist;Categories=outside,spyder;Prerequisites=spyder,butterfly-twist
+Id=doubleleg-twist;Name=Doubleleg Twist;Categories=outside,doubleleg;Prerequisites=doubleleg
+Id=doubleleg-double-twist;Name=Doubleleg Double Twist;Categories=outside,doubleleg;Prerequisites=doubleleg-twist
+Id=broken-scrubba;Name=Broken Scrubba;Categories=outside,raiz;Prerequisites=scrubba,broken-touchdown-raiz
+Id=lotus-crowd-awakener;Name=Lotus Crowd Awakener;Categories=outside,lotus;Prerequisites=lotus-doubleleg
+Id=touchdown-raiz-roll;Name=Touchdown Raiz Roll;Categories=outside,raiz;Prerequisites=touchdown-raiz
+Id=doubleleg-twist-round;Name=Doubleleg Twist Round;Categories=outside,doubleleg;Prerequisites=doubleleg
+Id=spyder-twist-round;Name=Spyder Twist Round;Categories=outside,spyder;Prerequisites=spyder-twist
+Id=swipeknife-turbo;Name=Swipeknife Turbo;Categories=outside,raiz;Prerequisites=swipeknife
+Id=sideswipe-late-round;Name=Sideswipe Late Round;Categories=outside,raiz;Prerequisites=sideswipe
+Id=double-doubleleg;Name=Double Doubleleg;Categories=outside,doubleleg;Prerequisites=doubleleg
+Id=lotus-late-round;Name=Lotus Late Round;Categories=outside,lotus;Prerequisites=lotus-doubleleg
+Id=lotus-shuriken;Name=Lotus Shuriken;Categories=outside,lotus;Prerequisites=lotus-doubleleg
+Id=lotus-doubleleg-hyperhook;Name=Lotus Doubleleg Hyperhook;Categories=outside,lotus;Prerequisites=lotus-doubleleg
+Id=pop-snapu;Name=Pop Snapu;Categories=outside,doubleleg;Prerequisites=pop-swipe
+Id=cheat-720-twist-broken;Name=Cheat 720 Twist Broken;Categories=outside,raiz;Prerequisites=cheat-720-twist
+Id=raiz-hyperhook-turbo;Name=Raiz Hyperhook Turbo;Categories=outside,raiz;Prerequisites=raiz-hyperhook
+Id=sideswipe-late-swipe;Name=Sideswipe Late Swipe;Categories=outside,raiz;Prerequisites=sideswipe-late-round
+Id=snapu;Name=Snapu;Categories=outside,raiz;Prerequisites=sideswipe
+Id=snapu-round;Name=Snapu Round;Categories=outside,raiz;Prerequisites=snapu
+Id=sailor-moon-late-round;Name=Sailor Moon Late Round;Categories=outside,raiz;Prerequisites=sailor-moon
+Id=touchdown-raiz-twist;Name=Touchdown Raiz Twist;Categories=outside,raiz;Prerequisites=touchdown-raiz,snapu
+Id=cheat-720-twist;Name=Cheat 720 Twist;Categories=outside,raiz;Prerequisites=raiz,butterfly-twist,cheat-900
+Id=sailor-moon-twist;Name=Sailor Moon Twist;Categories=outside,raiz;Prerequisites=sailor-moon,cheat-720-twist
+Id=snapu-doubleleg;Name=Snapu Doubleleg;Categories=outside,raiz;Prerequisites=snapu
+Id=rodeo-snapu;Name=Rodeo Snapu;Categories=outside,raiz;Prerequisites=snapu
+Id=cheat-720-twist-round;Name=Cheat 720 Twist Round;Categories=outside,raiz;Prerequisites=cheat-720-twist,cheat-900
+Id=feilong-snapu;Name=Feilong Snapu;Categories=outside,raiz;Prerequisites=snapu
+Id=sailor-moon-snapu;Name=Sailor Moon Snapu;Categories=outside,raiz;Prerequisites=sailor-moon,snapu
+Id=envergado-twist;Name=Envergado Twist;Categories=outside,raiz;Prerequisites=envergado
+Id=double-sideflip;Name=Double Sideflip;Categories=outside,sideflip;Prerequisites=sideflip
+Id=envergado-double-twist;Name=Envergado Double Twist;Categories=outside,raiz;Prerequisites=envergado-twist
+Id=raiz-shurikane;Name=Raiz Shurikane;Categories=outside,raiz;Prerequisites=hurricane-kick
+Id=cali-roll;Name=Cali Roll;Categories=outside,raiz;Prerequisites=cheat-720-twist
+Id=cheat-720-twist-hyperhook;Name=Cheat 720 Twist Hyperhook;Categories=outside,raiz;Prerequisites=cheat-720-twist,cheat-1080
+Id=snapu-hyperhook;Name=Snapu Hyperhook;Categories=outside,raiz;Prerequisites=snapu
+Id=snapu-twist;Name=Snapu Twist;Categories=outside,raiz;Prerequisites=snapu
+Id=sailor-moon-doubleleg-twist;Name=Sailor Moon Doubleleg Twist;Categories=outside,raiz;Prerequisites=sailor-moon-doubleleg
+Id=raiz-in;Name=Raiz-In;Categories=outside,raiz;Prerequisites=raiz
+Id=pop-360-shuriken;Name=Pop 360 Shuriken;Categories=vertical-kick,pop-kick;Prerequisites=pop-360
+Id=skip-hook;Name=Skip Hook;Categories=vertical-kick,swing-kick;Prerequisites=spin-hook
+Id=pop-tornado;Name=Pop Tornado;Categories=vertical-kick,pop-kick;Prerequisites=tornado
+Id=backside-720;Name=Backside 720;Categories=vertical-kick,pop-kick;Prerequisites=skip-hook
+Id=pop-feilong;Name=Pop Feilong;Categories=vertical-kick,pop-kick;Prerequisites=pop-360-shuriken,pop-tornado
+Id=tornado;Name=Tornado;Categories=vertical-kick,cheat-kick;Prerequisites=none
+Id=pop-360;Name=Pop 360;Categories=vertical-kick,pop-kick;Prerequisites=none
+Id=swing-360;Name=Swing 360;Categories=vertical-kick,swing-kick;Prerequisites=pop-360
+Id=cheat-double-hook;Name=Cheat Double Hook;Categories=vertical-kick,cheat-kick;Prerequisites=skip-hook
+Id=tornado-sidekick;Name=Tornado Sidekick;Categories=vertical-kick,cheat-kick;Prerequisites=tornado
+Id=pop-720;Name=Pop 720;Categories=vertical-kick,pop-kick;Prerequisites=pop-540
+Id=cheat-720;Name=Cheat 720;Categories=vertical-kick,cheat-kick;Prerequisites=skip-hook
+Id=cheat-feilong;Name=Cheat Feilong;Categories=vertical-kick,cheat-kick;Prerequisites=tornado
+Id=backside-900-sidekick;Name=Backside 900 Sidekick;Categories=vertical-kick,pop-kick;Prerequisites=backside-900
+Id=crowd-awakener;Name=Crowd Awakener;Categories=vertical-kick,cheat-kick;Prerequisites=tornado
+Id=pop-720-double;Name=Pop 720 Double;Categories=vertical-kick,pop-kick;Prerequisites=pop-720
+Id=540;Name=540;Categories=vertical-kick,cheat-kick;Prerequisites=tornado
+Id=backside-900-feilong;Name=Backside 900 Feilong;Categories=vertical-kick,pop-kick;Prerequisites=backside-900,pop-feilong
+Id=pop-540;Name=Pop 540;Categories=vertical-kick,pop-kick;Prerequisites=pop-tornado
+Id=backside-900;Name=Backside 900;Categories=vertical-kick,pop-kick;Prerequisites=pop-tornado
+Id=parafuso;Name=Parafuso;Categories=vertical-kick,cheat-kick;Prerequisites=tornado
+Id=parafuso-hawkeye;Name=Parafuso Hawkeye;Categories=vertical-kick,cheat-kick;Prerequisites=parafuso
+Id=parafuso-twist-kick;Name=Parafuso Twist-Kick;Categories=vertical-kick,cheat-kick;Prerequisites=parafuso
+Id=cheat-720-double;Name=Cheat 720 Double;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-720
+Id=tornado-hawkeye;Name=Tornado Hawkeye;Categories=vertical-kick,cheat-kick;Prerequisites=tornado
+Id=pop-feilong-knife;Name=Pop Feilong Knife;Categories=vertical-kick,pop-kick;Prerequisites=pop-feilong
+Id=cheat-720-shuriken;Name=Cheat 720 Shuriken;Categories=vertical-kick,cheat-kick;Prerequisites=pop-360-shuriken
+Id=paraknife;Name=Paraknife;Categories=vertical-kick,cheat-kick;Prerequisites=parafuso,jackknife
+Id=tornado-double;Name=Tornado Double;Categories=vertical-kick,cheat-kick;Prerequisites=tornado
+Id=backside-900-hyper;Name=Backside 900 Hyper;Categories=vertical-kick,pop-kick;Prerequisites=backside-900,540
+Id=swing-900;Name=Swing 900;Categories=vertical-kick,swing-kick;Prerequisites=backside-900
+Id=backside-1080;Name=Backside 1080;Categories=vertical-kick,pop-kick;Prerequisites=backside-900
+Id=twist-knife;Name=Twist Knife;Categories=vertical-kick,cheat-kick;Prerequisites=jackknife
+Id=swing-900-sidekick;Name=Swing 900 Sidekick;Categories=vertical-kick,swing-kick;Prerequisites=swing-900-sidekick
+Id=cheat-720-turbo;Name=Cheat 720 Turbo;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-720,swing-360
+Id=cheat-900-rodeo;Name=Cheat 900 Rodeo;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900
+Id=wackknife-turbo;Name=Wackknife Turbo;Categories=vertical-kick,cheat-kick;Prerequisites=wackknife
+Id=pop-360-gyro;Name=Pop 360 Gyro;Categories=vertical-kick,pop-kick;Prerequisites=pop-360
+Id=jackknife-turbo;Name=Jackknife Turbo;Categories=vertical-kick,cheat-kick;Prerequisites=jackknife,tsunami
+Id=cheat-900-doubleleg;Name=Cheat 900 Doubleleg;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900,parafuso
+Id=wackest-knife;Name=Wackest Knife;Categories=vertical-kick,cheat-kick;Prerequisites=wackknife
+Id=cheat-900-sidekick;Name=Cheat 900 Sidekick;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900
+Id=cheat-900-feilong;Name=Cheat 900 Feilong;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900
+Id=backside-900-knife;Name=Backside 900 Knife;Categories=vertical-kick,pop-kick;Prerequisites=backside-1080,jackknife
+Id=cheat-900-double;Name=Cheat 900 Double;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900
+Id=cheat-900;Name=Cheat 900;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-720,backside-900
+Id=jackknife;Name=Jackknife;Categories=vertical-kick,cheat-kick;Prerequisites=540,cheat-720
+Id=wackknife;Name=Wackknife;Categories=vertical-kick,cheat-kick;Prerequisites=tornado
+Id=wackknife-doubleleg;Name=Wackknife Doubleleg;Categories=vertical-kick,cheat-kick;Prerequisites=wackknife
+Id=cheat-900-double-tai-fighter;Name=Cheat 900 Double Tai Fighter;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900
+Id=jackknife-shuriken;Name=Jackknife Shuriken;Categories=vertical-kick,cheat-kick;Prerequisites=jackknife
+Id=wackknife-round;Name=Wackknife Round;Categories=vertical-kick,cheat-kick;Prerequisites=wackknife
+Id=crowd-awakener-knife;Name=Crowd Awakener Knife;Categories=vertical-kick,cheat-kick;Prerequisites=crowd-awakener,jackknife
+Id=cheat-900-crowd-awakener;Name=Cheat 900 Crowd Awakener;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900,crowd-awakener
+Id=cheat-1080;Name=Cheat 1080;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900,backside-1080
+Id=cheat-900-knife;Name=Cheat 900 Knife;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1080,cheat-900-hyper
+Id=cheat-900-paraknife;Name=Cheat 900 Paraknife;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900-doubleleg
+Id=pop-900-hyper;Name=Pop 900 Hyper;Categories=vertical-kick,pop-kick;Prerequisites=pop-900
+Id=backside-1260;Name=Backside 1260;Categories=vertical-kick,pop-kick;Prerequisites=backside-1080
+Id=swing-1080;Name=Swing 1080;Categories=vertical-kick,swing-kick;Prerequisites=swing-900
+Id=cheat-1080-double;Name=Cheat 1080 Double;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1080
+Id=pop-360-gyro-round;Name=Pop 360 Gyro Round;Categories=vertical-kick,pop-kick;Prerequisites=pop-360-gyro
+Id=hurricane-kick;Name=Hurricane Kick;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1080
+Id=pop-900;Name=Pop 900;Categories=vertical-kick,pop-kick;Prerequisites=pop-720,backside-900
+Id=backside-1260-feilong;Name=Backside 1260 Feilong;Categories=vertical-kick,pop-kick;Prerequisites=backside-1260,backside-900-feilong
+Id=swing-900-knife;Name=Swing 900 Knife;Categories=vertical-kick,swing-kick;Prerequisites=swing-900,jackknife
+Id=cheat-900-hyper;Name=Cheat 900 Hyper;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900
+Id=backside-900-gyro;Name=Backside 900 Gyro;Categories=vertical-kick,pop-kick;Prerequisites=backisde-900-hyper,540-gyro
+Id=cheat-900-crowd-awakener-knife;Name=Cheat 900 Crowd Awakener Knife;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900-crowd-awakener
+Id=backside-1260-wackknife;Name=Backside 1260 Wackknife;Categories=vertical-kick,pop-kick;Prerequisites=backside-1260,wackknife
+Id=pop-360-gyro-doubleleg;Name=Pop 360 Gyro Doubleleg;Categories=vertical-kick,pop-kick;Prerequisites=pop-360-gyro
+Id=540-gyro;Name=540 Gyro;Categories=vertical-kick,cheat-kick;Prerequisites=540
+Id=pop-1080;Name=Pop 1080;Categories=vertical-kick,pop-kick;Prerequisites=pop-900
+Id=parafuso-gyro;Name=Parafuso Gyro;Categories=vertical-kick,cheat-kick;Prerequisites=parafuso
+Id=jackknife-1080;Name=Jackknife 1080;Categories=vertical-kick,cheat-kick;Prerequisites=jackknife,cheat-1080
+Id=backside-1260-feilong-knife;Name=Backside 1260 Feilong Knife;Categories=vertical-kick,pop-kick;Prerequisites=backside-1260-feilong,backside-1440
+Id=backside-1620;Name=Backside 1620;Categories=vertical-kick,pop-kick;Prerequisites=backside-1440
+Id=backside-1080-shuriken;Name=Backside 1080 Shuriken;Categories=vertical-kick,pop-kick;Prerequisites=backside-1080,pop-360
+Id=cheat-1260;Name=Cheat 1260;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1080,backside-1260
+Id=cheat-900-gyro;Name=Cheat 900 Gyro;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900-hyper,540-gyro
+Id=cheat-900-double-hyper;Name=Cheat 900 Double Hyper;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900-double
+Id=pop-1440;Name=Pop 1440;Categories=vertical-kick,pop-kick;Prerequisites=backside-1440,pop-1260
+Id=cheat-900-doubleleg-twist;Name=Cheat 900 Doubleleg Twist;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900-doubleleg
+Id=cheat-1620;Name=Cheat 1620;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1440
+Id=cheat-1440;Name=Cheat 1440;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1260
+Id=backside-1260-knife;Name=Backside 1260 Knife;Categories=vertical-kick,pop-kick;Prerequisites=backside-1260,backside-1440
+Id=cheat-1260-doubleleg;Name=Cheat 1260 Doubleleg;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1260,cheat-900-doubleleg
+Id=cheat-900-double-knife;Name=Cheat 900 Double Knife;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-900-knife,cheat-900-double
+Id=backside-1440;Name=Backside 1440;Categories=vertical-kick,pop-kick;Prerequisites=backside-1260
+Id=540-gyroknife;Name=540 Gyroknife;Categories=vertical-kick,cheat-kick;Prerequisites=540-gyro
+Id=cheat-1260-double;Name=Cheat 1260 Double;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1260
+Id=cheat-1260-hyper;Name=Cheat 1260 Hyper;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1260
+Id=cheat-1080-shuriken;Name=Cheat 1080 Shuriken;Categories=vertical-kick,cheat-kick;Prerequisites=cheat-1260,cheat-720-shuriken
+Id=pop-1260;Name=Pop 1260;Categories=vertical-kick,pop-kick;Prerequisites=pop-1080
+Id=swing-1260;Name=Swing 1260;Categories=vertical-kick,swing-kick;Prerequisites=swing-1080
+Id=inward-360-dive-roll;Name=Inward 360 Dive Roll;Categories=inside,masterswing;Prerequisites=foward-roll
+Id=cartwheel;Name=Cartwheel;Categories=inside,aerial;Prerequisites=none
+Id=scoot;Name=Scoot;Categories=inside,masterswing;Prerequisites=none
+Id=kaydem;Name=Kaydem;Categories=inside,aerial;Prerequisites=blasterscoot
+Id=blasterscoot;Name=Blasterscoot;Categories=inside,aerial;Prerequisites=none
+Id=scoot-hyper;Name=Scoot Hyper;Categories=inside,masterswing;Prerequisites=scoot
+Id=masterswipe;Name=Masterswipe;Categories=inside,masterswing;Prerequisites=masterscoot,cartwheel
+Id=roundoff;Name=Roundoff;Categories=inside,aerial;Prerequisites=cartwheel
+Id=one-handed-cartwheel;Name=One-Handed Cartwheel;Categories=inside,aerial;Prerequisites=cartwheel
+Id=palmkick;Name=Palmkick;Categories=inside,aerial;Prerequisites=cartwheel
+Id=masterscoot;Name=Masterscoot;Categories=inside,masterswing;Prerequisites=scoot
+Id=butterfly-kick-switch-hyperhook;Name=Butterfly Kick Switch Hyperhook;Categories=inside,butterfly;Prerequisites=butterfly-kick-switch
+Id=illusion-twist;Name=Illusion Twist;Categories=inside,butterfly;Prerequisites=butterfly-kick,pop-360
+Id=grand-master-scissor;Name=Grand Master Scissor;Categories=inside,masterswing;Prerequisites=grand-master-swipe,gainer-scissor
+Id=aerial-mega;Name=Aerial Mega;Categories=inside,aerial;Prerequisites=aerial
+Id=butterfly-kick-switch;Name=Butterfly Kick Switch;Categories=inside,butterfly;Prerequisites=butterfly-kick
+Id=butterfly-kick-late-hook;Name=Butterfly Kick Late Hook;Categories=inside,butterfly;Prerequisites=butterfly-kick
+Id=grand-master-swipeknife;Name=Grand Master Swipeknife;Categories=inside,masterswing;Prerequisites=grand-master-swipe
+Id=grand-master-rocketboi;Name=Grand Master Rocketboi;Categories=inside,masterswing;Prerequisites=grand-master-swipe,rocketboi
+Id=grand-master-scoot;Name=Grand Master Scoot;Categories=inside,masterswing;Prerequisites=masterscoot
+Id=aerial;Name=Aerial;Categories=inside,aerial;Prerequisites=cartwheel,one-handed-cartwheel
+Id=wrap-arabian-scissor;Name=Wrap Arabian Scissor;Categories=inside,wrap;Prerequisites=wrap-arabian,arabian-scissor
+Id=aerial-scissor;Name=Aerial Scissor;Categories=inside,aerial;Prerequisites=aerial-mega
+Id=butterfly-kick;Name=Butterfly Kick;Categories=inside,butterfly;Prerequisites=cartwheel
+Id=grand-master-swipe;Name=Grand Master Swipe;Categories=inside,masterswing;Prerequisites=aerial,sideswipe,masterswipe
+Id=grand-master-arabian;Name=Grand Master Arabian;Categories=inside,masterswing;Prerequisites=arabian,grand-master-swipe
+Id=wrap-arabian;Name=Wrap Arabian;Categories=inside,wrap;Prerequisites=arabian
+Id=aerial-hook;Name=Aerial Hook;Categories=inside,aerial;Prerequisites=aerial,skip-hook
+Id=butter-knife;Name=Butter Knife;Categories=inside,butterfly;Prerequisites=butterfly-kick
+Id=rodeo-grand-master-swipe;Name=Rodeo Grand Master Swipe;Categories=inside,masterswing;Prerequisites=grand-master-swipe
+Id=butterfly-kick-helicoptero;Name=Butterfly Kick Helicoptero;Categories=inside,butterfly;Prerequisites=butterfly-kick,helicoptero
+Id=sketchdown-raiz;Name=Sketchdown Raiz;Categories=inside,masterswing;Prerequisites=masterscoot
+Id=butterfly-kick-terada-grab;Name=Butterfly Kick Terada Grab;Categories=inside,butterfly;Prerequisites=butter-knife
+Id=butterfly-kick-scissor;Name=Butterfly Kick Scissor;Categories=inside,butterfly;Prerequisites=butterfly-kick
+Id=tak-full;Name=Tak Full;Categories=inside,tak;Prerequisites=cheat-900,full-twist
+Id=one-elbow-cartwheel-twist;Name=One-Elbow Cartwheel Twist;Categories=inside,aerial;Prerequisites=one-handed-cartwheel-twist
+Id=grand-master-twist-doubleleg;Name=Grand Master Twist Doubleleg;Categories=inside,masterswing;Prerequisites=grand-master-twist,full-doubleleg
+Id=butterfly-twist-feilong-swipe;Name=Butterfly Twist Feilong Swipe;Categories=inside,butterfly;Prerequisites=butterfly-twist-swipe
+Id=butterfly-twist-hyper;Name=Butterfly Twist Hyper;Categories=inside,butterfly;Prerequisites=butterfly-twist
+Id=tak-rodeo-full;Name=Tak Rodeo Full;Categories=inside,tak;Prerequisites=tak-full,rodeo-full
+Id=butterfly-twist-hawkeye;Name=Butterfly Twist Hawkeye;Categories=inside,butterfly;Prerequisites=butterfly-twist-round
+Id=wrap-full-shuriken-hyperhook;Name=Wrap Full Shuriken Hyperhook;Categories=inside,wrap;Prerequisites=shuriken-cutter,wrap-full-hyperhook
+Id=wrap-full-hyper;Name=Wrap Full Hyper;Categories=inside,wrap;Prerequisites=wrap-full
+Id=masterswipe-helicoptero;Name=Masterswipe Helicoptero;Categories=inside,masterswing;Prerequisites=masterswipe,helicoptero
+Id=wrap-full-swipeknife;Name=Wrap Full Swipeknife;Categories=inside,wrap;Prerequisites=wrap-full-hyperhook,full-swipeknife
+Id=butterfly-twist-hyperhook;Name=Butterfly Twist Hyperhook;Categories=inside,butterfly;Prerequisites=butterfly-twist-hyper
+Id=butterfly-twist-double-round;Name=Butterfly Twist Double Round;Categories=inside,butterfly;Prerequisites=butterfly-twist-round
+Id=aerial-twist-gumbi;Name=Aerial Twist Gumbi;Categories=inside,aerial;Prerequisites=aerial-twist,gumbi
+Id=butterfly-twist-swipe;Name=Butterfly Twist Swipe;Categories=inside,butterfly;Prerequisites=butterfly-twist-round
+Id=tak-full-wackknife;Name=Tak Full Wackknife;Categories=inside,tak;Prerequisites=tak-full,full-wackknife
+Id=grand-master-twist;Name=Grand Master Twist;Categories=inside,masterswing;Prerequisites=grand-master-swipe,corkscrew
+Id=helicoptero-e-kick;Name=Helicoptero E-Kick;Categories=inside,aerial;Prerequisites=helicoptero,e-kick
+Id=wrap-full-doubleleg;Name=Wrap Full Doubleleg;Categories=inside,wrap;Prerequisites=wrap-full,full-doubleleg
+Id=butterfly-kick-helicoptero-round;Name=Butterfly Kick Helicoptero Round;Categories=inside,butterfly;Prerequisites=butterfly-kick-helicoptero
+Id=aerial-twist;Name=Aerial Twist;Categories=inside,aerial;Prerequisites=aerial,butterfly-twist
+Id=butterfly-twist-shuriken;Name=Butterfly Twist Shuriken;Categories=inside,butterfly;Prerequisites=butterfly-twist,pop-360-shuriken
+Id=takuraba;Name=Takuraba;Categories=inside,tak;Prerequisites=arabian,tornado
+Id=wrap-full-swipe;Name=Wrap Full Swipe;Categories=inside,wrap;Prerequisites=wrap-full,full-swipe
+Id=tak-full-shuriken-hyperhook;Name=Tak Full Shuriken Hyperhook;Categories=inside,tak;Prerequisites=tak-full-hyperhook
+Id=wrap-full-pike;Name=Wrap Full Pike;Categories=inside,wrap;Prerequisites=wrap-full,full-pike
+Id=butterfly-twist-twist-kick;Name=Butterfly Twist Twist-Kick;Categories=inside,butterfly;Prerequisites=butterfly-twist-round
+Id=touchdown-tak-full;Name=Touchdown Tak Full;Categories=inside,tak;Prerequisites=tak-full,touchdown-raiz
+Id=butterfly-twist-doubleleg;Name=Butterfly Twist Doubleleg;Categories=inside,butterfly;Prerequisites=butterfly-twist
+Id=aerial-sidewinder;Name=Aerial Sidewinder;Categories=inside,aerial;Prerequisites=aerial,sidewinder
+Id=touchdown-wrap-full;Name=Touchdown Wrap Full;Categories=inside,wrap;Prerequisites=wrap-full,touchdown-raiz
+Id=aerial-twist-doubleleg;Name=Aerial Twist Doubleleg;Categories=inside,aerial;Prerequisites=aerial-twist
+Id=tak-full-round;Name=Tak Full Round;Categories=inside,tak;Prerequisites=tak-full,cheat-900
+Id=one-handed-cartwheel-twist;Name=One-Handed Cartwheel Twist;Categories=inside,aerial;Prerequisites=one-handed-cartwheel
+Id=wrap-full;Name=Wrap Full;Categories=inside,wrap;Prerequisites=full-twist
+Id=sidewinder;Name=Sidewinder;Categories=inside,butterfly;Prerequisites=butterfly-twist
+Id=palmkick-kyro;Name=Palmkick Kyro;Categories=inside,aerial;Prerequisites=palmkick
+Id=helicoptero;Name=Helicoptero;Categories=inside,aerial;Prerequisites=cartwheel
+Id=butterfly-twist-shuriken-hyperhook;Name=Butterfly Twist Shuriken Hyperhook;Categories=inside,butterfly;Prerequisites=butterfly-twist-shuriken,butterfly-twist-hyperhook
+Id=wrap-full-hyperhook;Name=Wrap Full Hyperhook;Categories=inside,wrap;Prerequisites=full-hyperhook,wrap-full
+Id=butterfly-twist;Name=Butterfly Twist;Categories=inside,butterfly;Prerequisites=butterfly-kick
+Id=butterfly-twist-round;Name=Butterfly Twist Round;Categories=inside,butterfly;Prerequisites=butterfly-twist,backside-900
+Id=cartwheel-twist;Name=Cartwheel Twist;Categories=inside,aerial;Prerequisites=cartwheel
+Id=butterfly-twist-wackknife;Name=Butterfly Twist Wackknife;Categories=inside,butterfly;Prerequisites=butterfly-twist-doubleleg,wackknife
+Id=touchdown-butterfly-twist;Name=Touchdown Butterfly Twist;Categories=inside,butterfly;Prerequisites=butterfly-twist,touchdown-raiz
+Id=wrap-full-round;Name=Wrap Full Round;Categories=inside,wrap;Prerequisites=wrap-full
+Id=butterfly-twist-axe;Name=Butterfly Twist Axe;Categories=inside,butterfly;Prerequisites=butterfly-twist
+Id=tak-full-hyperhook;Name=Tak Full Hyperhook;Categories=inside,tak;Prerequisites=tak-full,full-hyperhook
+Id=butterfly-twist-knife;Name=Butterfly Twist Knife;Categories=inside,butterfly;Prerequisites=butterfly-twist-round,butterfly-twist-hyperhook
+Id=takuraba-scissor;Name=Takuraba Scissor;Categories=inside,tak;Prerequisites=takuraba,arabian-scissor
+Id=touchdown-aerial-twist;Name=Touchdown Aerial Twist;Categories=inside,aerial;Prerequisites=aerial-twist,touchdown-raiz
+Id=tak-full-swipe;Name=Tak Full Swipe;Categories=inside,tak;Prerequisites=tak-full,full-swipe
+Id=aerial-helicoptero;Name=Aerial Helicoptero;Categories=inside,aerial;Prerequisites=helicoptero,aerial-scissor
+Id=aerial-twist-gumbi-helicoptero;Name=Aerial Twist Gumbi Helicoptero;Categories=inside,aerial;Prerequisites=aerial-twist-gumbi,helicoptero
+Id=tak-full-pizzaboy;Name=Tak Full Pizzaboy;Categories=inside,tak;Prerequisites=tak-full
+Id=wrap-full-late-round;Name=Wrap Full Late Round;Categories=inside,wrap;Prerequisites=wrap-full
+Id=masterscoot-twist;Name=Masterscoot Twist;Categories=inside,masterswing;Prerequisites=masterscoot
+Id=touchup-double-butterfly-twist;Name=Touchup Double Butterfly Twist;Categories=inside,butterfly;Prerequisites=double-butterfly-twist
+Id=double-butterfly-twist;Name=Double Butterfly Twist;Categories=inside,butterfly;Prerequisites=butterfly-twist-hyper
+Id=butterfly-twist-snapu;Name=Butterfly Twist Snapu;Categories=inside,butterfly;Prerequisites=butterfly-twist-swipe,snapu
+Id=scoot-twist;Name=Scoot Twist;Categories=inside,masterswing;Prerequisites=scoot
+Id=double-butterfly-twist-hyper;Name=Double Butterfly Twist Hyper;Categories=inside,butterfly;Prerequisites=butterfly-twist
+Id=double-butterfly-twist-round;Name=Double Butterfly Twist Round;Categories=inside,butterfly;Prerequisites=butterfly-twist-round,double-butterfly-twist
+Id=wrap-double-full-mega;Name=Wrap Double Full Mega;Categories=inside,wrap;Prerequisites=wrap-double-full
+Id=butterfly-twist-shuriken-twist;Name=Butterfly Twist Shuriken Twist;Categories=inside,butterfly;Prerequisites=butterfly-twist-shuriken,double-butterfly-twist
+Id=butterfly-twist-round-late-round;Name=Butterfly Twist Round Late Round;Categories=inside,butterfly;Prerequisites=butterfly-twist-round
+Id=macaron;Name=Macaron;Categories=inside,aerial;Prerequisites=aerial
+Id=palmkick-scissor-swipe;Name=Palmkick Scissor Swipe;Categories=inside,aerial;Prerequisites=palmkick
+Id=tak-double-full-hyper;Name=Tak Double Full Hyper;Categories=inside,tak;Prerequisites=tak-double-full
+Id=wrap-double-full;Name=Wrap Double Full;Categories=inside,wrap;Prerequisites=wrap-full,double-full
+Id=butterfly-twist-doubleleg-twist;Name=Butterfly Twist Doubleleg Twist;Categories=inside,butterfly;Prerequisites=butterfly-twist-doubleleg,double-butterfly-twist
+Id=tak-double-full-touchdown;Name=Tak Double Full Touchdown;Categories=inside,tak;Prerequisites=tak-double-full
+Id=tak-double-full-hyperhook;Name=Tak Double Full Hyperhook;Categories=inside,tak;Prerequisites=tak-double-full,double-full-hyperhook
+Id=wrap-full-snapu;Name=Wrap Full Snapu;Categories=inside,wrap;Prerequisites=wrap-full-swipe,wrap-double-full
+Id=double-peter-pan-butterfly-twist;Name=Double Peter Pan Butterfly Twist;Categories=inside,butterfly;Prerequisites=double-butterfly-twist
+Id=tak-double-full-round;Name=Tak Double Full Round;Categories=inside,tak;Prerequisites=double-full-round,tak-double-full
+Id=double-aerial-twist;Name=Double Aerial Twist;Categories=inside,aerial;Prerequisites=aerial-twist
+Id=tak-double-full;Name=Tak Double Full;Categories=inside,tak;Prerequisites=tak-full,double-full
+Id=butterfly-twist-shurikane;Name=Butterfly Twist Shurikane;Categories=inside,butterfly;Prerequisites=butterfly-twist-shuriken-hyperhook
+Id=tak-full-kyro;Name=Tak Full Kyro;Categories=inside,tak;Prerequisites=tak-full-hyperhook
+Id=wrap-full-shurikane;Name=Wrap Full Shurikane;Categories=inside,wrap;Prerequisites=wrap-full-shuriken-cutter
+Id=butterfly-twist-in;Name=Butterfly Twist-In;Categories=inside,butterfly;Prerequisites=butterfly-twist
+Id=triple-butterfly-twist;Name=Triple Butterfly Twist;Categories=inside,butterfly;Prerequisites=double-butterfly-twist
+Id=triple-aerial-twist;Name=Triple Aerial Twist;Categories=inside,aerial;Prerequisites=double-aerial-twist
+Id=tak-triple-full;Name=Tak Triple Full;Categories=inside,tak;Prerequisites=tak-double-full,triple-full
+Id=wrap-triple-full;Name=Wrap Triple Full;Categories=inside,wrap;Prerequisites=wrap-double-full,triple-full
+Id=cartwheel-late-swipe;Name=Cartwheel Late Swipe;Categories=inside,aerial;Prerequisites=cartwheel
+Id=double-butterfly-twist-snapu;Name=Double Butterfly Twist Snapu;Categories=inside,butterfly;Prerequisites=double-butterfly-twist,butterfly-twist-snapu
+Id=wrap-double-full-snapu;Name=Wrap Double Full Snapu;Categories=inside,wrap;Prerequisites=wrap-full-snapu,wrap-triple-full
+Id=back-pike;Name=Back Pike;Categories=backward,backflip;Prerequisites=back-tuck
+Id=gainer-scissor-round;Name=Gainer Scissor Round;Categories=backward,gainer;Prerequisites=gainer-scissor
+Id=rodeo-gainer-switch;Name=Rodeo Gainer Switch;Categories=backward,gainer;Prerequisites=gainer-switch
+Id=gainer-arabian;Name=Gainer Arabian;Categories=backward,gainer;Prerequisites=gainer-flash,arabian
+Id=rocketboi;Name=Rocketboi;Categories=backward,backflip;Prerequisites=back-pike
+Id=gainer-rocketboi;Name=Gainer Rocketboi;Categories=backward,gainer;Prerequisites=rocketboi,gainer-flash
+Id=flash-kick;Name=Flash Kick;Categories=backward,backflip;Prerequisites=back-tuck
+Id=gainer-figure-4;Name=Gainer Figure 4;Categories=backward,gainer;Prerequisites=gainer-flash,arabian
+Id=crashmoon;Name=Crashmoon;Categories=backward,gainer;Prerequisites=gainer-hook
+Id=gainer-switch-half;Name=Gainer Switch Half;Categories=backward,gainer;Prerequisites=gainer-switch,gainer-arabian
+Id=lonestar;Name=Lonestar;Categories=backward,backflip;Prerequisites=arabian
+Id=gainer-tuck;Name=Gainer Tuck;Categories=backward,gainer;Prerequisites=back-tuck
+Id=dragonfly-moonkick;Name=Dragonfly Moonkick;Categories=backward,gainer;Prerequisites=gainer-hook
+Id=gainer-switch-hyperhook;Name=Gainer Switch Hyperhook;Categories=backward,gainer;Prerequisites=gainer-triple
+Id=arabian;Name=Arabian;Categories=backward,backflip;Prerequisites=back-tuck,front-tuck
+Id=gainer-switch-hawkeye;Name=Gainer Switch Hawkeye;Categories=backward,gainer;Prerequisites=gainer-switch
+Id=gainer-hook;Name=Gainer Hook;Categories=backward,gainer;Prerequisites=gainer-flash,skip-hook
+Id=arabian-scissor;Name=Arabian Scissor;Categories=backward,backflip;Prerequisites=arabian-axe
+Id=dragonfly-hyperhook;Name=Dragonfly Hyperhook;Categories=backward,backflip;Prerequisites=flash-kick
+Id=gainer-triple;Name=Gainer Triple;Categories=backward,gainer;Prerequisites=gainer-switch
+Id=back-handspring;Name=Back Handspring;Categories=backward,backflip;Prerequisites=backwards-roll
+Id=x-out;Name=X-Out;Categories=backward,backflip;Prerequisites=back-tuck
+Id=gainer-wackknife;Name=Gainer Wackknife;Categories=backward,gainer;Prerequisites=gainer-flash,wackknife
+Id=gainer-late-round;Name=Gainer Late Round;Categories=backward,gainer;Prerequisites=gainer-flash
+Id=lonestar-hyperhook;Name=Lonestar Hyperhook;Categories=backward,backflip;Prerequisites=lonestar
+Id=terada-grab;Name=Terada Grab;Categories=backward,backflip;Prerequisites=flash-kick,arabian
+Id=rodeo-backflip;Name=Rodeo Backflip;Categories=backward,backflip;Prerequisites=back-tuck
+Id=arabian-axe;Name=Arabian Axe;Categories=backward,backflip;Prerequisites=arabian,front-axe
+Id=valdez;Name=Valdez;Categories=backward,backflip;Prerequisites=none
+Id=rocketboi-round;Name=Rocketboi Round;Categories=backward,backflip;Prerequisites=rocketboi
+Id=gainer-figure-4-sidekick;Name=Gainer Figure 4 Sidekick;Categories=backward,gainer;Prerequisites=gainer-figure-4
+Id=arabian-x-out;Name=Arabian X-Out;Categories=backward,backflip;Prerequisites=arabian,front-x-out
+Id=flash-knife;Name=Flash Knife;Categories=backward,backflip;Prerequisites=flash-kick
+Id=shattermoon;Name=Shattermoon;Categories=backward,gainer;Prerequisites=crashmoon
+Id=gainer-flash;Name=Gainer Flash;Categories=backward,gainer;Prerequisites=flash-kick
+Id=gainer-x-out;Name=Gainer X-Out;Categories=backward,gainer;Prerequisites=gainer-tuck,x-out
+Id=gainer-helicoptero;Name=Gainer Helicoptero;Categories=backward,gainer;Prerequisites=gainer-flash,helicoptero
+Id=gainer-switch;Name=Gainer Switch;Categories=backward,gainer;Prerequisites=gainer-flash
+Id=back-tuck;Name=Back Tuck;Categories=backward,backflip;Prerequisites=backwards-roll
+Id=gainer-scissor;Name=Gainer Scissor;Categories=backward,gainer;Prerequisites=gainer-arabian
+Id=lonestar-scissor;Name=Lonestar Scissor;Categories=backward,backflip;Prerequisites=lonestar,arabian-scissor
+Id=slice;Name=Slice;Categories=backward,backflip;Prerequisites=back-pike
+Id=full-scissor;Name=Full Scissor;Categories=backward,full;Prerequisites=arabian-scissor
+Id=full-swipeknife;Name=Full Swipeknife;Categories=backward,full;Prerequisites=full-swipe,full-hyperhook
+Id=dragonfly-corkscrew-swipeknife;Name=Dragonfly Corkscrew Swipeknife;Categories=backward,corkscrew;Prerequisites=dragonfly-boxcutter,corkscrew-swipeknife
+Id=full-shuriken;Name=Full Shuriken;Categories=backward,full;Prerequisites=full-twist
+Id=rodeo-boxcutter;Name=Rodeo Boxcutter;Categories=backward,corkscrew;Prerequisites=rodeo-corkscrew,boxcutter
+Id=full-hyperhook;Name=Full Hyperhook;Categories=backward,full;Prerequisites=full-twist
+Id=full-shuriken-hyperhook;Name=Full Shuriken Hyperhook;Categories=backward,full;Prerequisites=full-shuriken,full-hyperhook
+Id=corkscrew-crowd-awakener-round;Name=Corkscrew Crowd Awakener Round;Categories=backward,corkscrew;Prerequisites=corkscrew-crowd-awakener
+Id=rodeo-full-doubleleg;Name=Rodeo Full Doubleleg;Categories=backward,full;Prerequisites=rodeo-full,full-doubleleg
+Id=shuriken-cutter;Name=Shuriken Cutter;Categories=backward,corkscrew;Prerequisites=boxcutter,corkscrew-shuriken
+Id=full-doubleleg-hyperhook;Name=Full Doubleleg Hyperhook;Categories=backward,full;Prerequisites=full-doubleleg,full-hyperhook
+Id=corkscrew-swipe-late-round;Name=Corkscrew Swipe Late Round;Categories=backward,corkscrew;Prerequisites=corkscrew-swipe
+Id=full-feilong;Name=Full Feilong;Categories=backward,full;Prerequisites=full-shuriken,full-round
+Id=corkscrew-swipe;Name=Corkscrew Swipe;Categories=backward,corkscrew;Prerequisites=corkscrew-hyper
+Id=gainer-scissor-late-round;Name=Gainer Scissor Late Round;Categories=backward,corkscrew;Prerequisites=gainer-scissor
+Id=gainer-sidewinder;Name=Gainer Sidewinder;Categories=backward,corkscrew;Prerequisites=gainer-hook
+Id=outstretched-corkscrew;Name=Outstretched Corkscrew;Categories=backward,corkscrew;Prerequisites=corkscrew
+Id=rodeo-full-shuriken;Name=Rodeo Full Shuriken;Categories=backward,full;Prerequisites=rodeo-full,full-shuriken
+Id=outstretched-boxcutter;Name=Outstretched Boxcutter;Categories=backward,corkscrew;Prerequisites=boxcutter
+Id=boxcutter-turbo;Name=Boxcutter Turbo;Categories=backward,corkscrew;Prerequisites=boxcutter
+Id=touchdown-corkscrew;Name=Touchdown Corkscrew;Categories=backward,corkscrew;Prerequisites=corkscrew,touchdown-raiz
+Id=corkscrew-wackknife;Name=Corkscrew Wackknife;Categories=backward,corkscrew;Prerequisites=corkscrew,wackknife
+Id=x-out-full;Name=X-Out Full;Categories=backward,full;Prerequisites=x-out,full-twist
+Id=rodeo-full-wackknife;Name=Rodeo Full Wackknife;Categories=backward,full;Prerequisites=rodeo-full,full-wackknife
+Id=full-tai-fighter-knife;Name=Full Tai Fighter Knife;Categories=backward,full;Prerequisites=full-tai-fighter,full-swipeknife
+Id=kick-full;Name=Kick Full;Categories=backward,full;Prerequisites=flash-kick,full-twist
+Id=terada-full;Name=Terada Full;Categories=backward,full;Prerequisites=terada-grab,full-twist
+Id=full-feilong-double;Name=Full Feilong Double;Categories=backward,full;Prerequisites=full-feilong
+Id=touchdown-quat;Name=Touchdown Quat;Categories=backward,gainer;Prerequisites=gainer-arabian
+Id=broken-full;Name=Broken Full;Categories=backward,full;Prerequisites=broken-touchdown-raiz
+Id=corkscrew-doubleleg;Name=Corkscrew Doubleleg;Categories=backward,corkscrew;Prerequisites=corkscrew,doubleleg
+Id=triple-flash-kick-full;Name=Triple Flash Kick Full;Categories=backward,full;Prerequisites=kick-full
+Id=arabian-scissor-hyperhook;Name=Arabian Scissor Hyperhook;Categories=backward,full;Prerequisites=arabian-scissor,full-hyperhook
+Id=full-hyperhook-turbo;Name=Full Hyperhook Turbo;Categories=backward,full;Prerequisites=full-hyperhook
+Id=dragonfly-corkscrew-doubleleg;Name=Dragonfly Corkscrew Doubleleg;Categories=backward,corkscrew;Prerequisites=dragonfly-corkscrew,corkscrew-doubleleg
+Id=pop-donut-boy;Name=Pop Donut Boy;Categories=backward,full;Prerequisites=none
+Id=dragonfly-shuriken-cutter;Name=Dragonfly Shuriken Cutter;Categories=backward,corkscrew;Prerequisites=dragonfly-corkscrew,shuriken-cutter
+Id=kick-full-doubleleg;Name=Kick Full Doubleleg;Categories=backward,full;Prerequisites=kick-full,full-doubleleg
+Id=full-pike-round;Name=Full Pike Round;Categories=backward,full;Prerequisites=full-pike
+Id=rodeo-full-round;Name=Rodeo Full Round;Categories=backward,full;Prerequisites=rodeo-full,full-round
+Id=arabian-scissor-round;Name=Arabian Scissor Round;Categories=backward,full;Prerequisites=full-scissor
+Id=corkscrew-swipeknife;Name=Corkscrew Swipeknife;Categories=backward,corkscrew;Prerequisites=corkscrew-swipe,boxcutter
+Id=corkscrew-shuriken;Name=Corkscrew Shuriken;Categories=backward,corkscrew;Prerequisites=corkscrew,pop-360
+Id=touchdown-full;Name=Touchdown Full;Categories=backward,full;Prerequisites=full-twist,touchdown-raiz
+Id=pop-donut-boy-round;Name=Pop Donut Boy Round;Categories=backward,full;Prerequisites=none
+Id=full-elbow-gumbi;Name=Full Elbow Gumbi;Categories=backward,full;Prerequisites=full-twist,aerial-twist-gumbi
+Id=boxcutter;Name=Boxcutter;Categories=backward,corkscrew;Prerequisites=corkscrew
+Id=lonestar-twist;Name=Lonestar Twist;Categories=backward,full;Prerequisites=lonestar
+Id=corkscrew-feilong-knife;Name=Corkscrew Feilong Knife;Categories=backward,corkscrew;Prerequisites=corkscrew-swipeknife,corkscrew-feilong
+Id=dragonfly-corkscrew-round;Name=Dragonfly Corkscrew Round;Categories=backward,corkscrew;Prerequisites=dragonfly-corkscrew,corkscrew-round
+Id=corkscrew-crowd-awakener-hyper;Name=Corkscrew Crowd Awakener Hyper;Categories=backward,corkscrew;Prerequisites=corkscrew-crowd-awakener
+Id=rodeo-backflip-full-down;Name=Rodeo Backflip Full Down;Categories=backward,full;Prerequisites=none
+Id=full-up-hyperhook;Name=Full Up Hyperhook;Categories=backward,full;Prerequisites=full-hyperhook
+Id=straddle-corkscrew;Name=Straddle Corkscrew;Categories=backward,corkscrew;Prerequisites=corkscrew
+Id=full-up-doubleleg;Name=Full Up Doubleleg;Categories=backward,full;Prerequisites=full-doubleleg
+Id=full-wackknife-hyperhook;Name=Full Wackknife Hyperhook;Categories=backward,full;Prerequisites=full-wackknife,full-hyperhook
+Id=dragonfly-boxcutter;Name=Dragonfly Boxcutter;Categories=backward,corkscrew;Prerequisites=boxcutter,dragonfly-corkscrew
+Id=full-up-crowd-awakener;Name=Full Up Crowd Awakener;Categories=backward,full;Prerequisites=full-crowd-awakener
+Id=rodeo-full-hyperhook;Name=Rodeo Full Hyperhook;Categories=backward,full;Prerequisites=rodeo-full,full-hyperhook
+Id=handcuff-corkscrew;Name=Handcuff Corkscrew;Categories=backward,corkscrew;Prerequisites=corkscrew
+Id=donut-boy;Name=Donut Boy;Categories=backward,corkscrew;Prerequisites=none
+Id=full-wackknife-round;Name=Full Wackknife Round;Categories=backward,full;Prerequisites=full-wackknife
+Id=corkscrew-crowd-awakener-knife;Name=Corkscrew Crowd Awakener Knife;Categories=backward,corkscrew;Prerequisites=corkscrew-swipeknife
+Id=full-round;Name=Full Round;Categories=backward,full;Prerequisites=full-twist,backside-900
+Id=corkscrew-round;Name=Corkscrew Round;Categories=backward,corkscrew;Prerequisites=corkscrew
+Id=gainer-arabian-grab-crowd-awakener;Name=Gainer Arabian Grab Crowd Awakener;Categories=backward,corkscrew;Prerequisites=gainer-arabian
+Id=rocketboi-scissor-switch;Name=Rocketboi Scissor Switch;Categories=backward,backflip;Prerequisites=rocketboi
+Id=full-swipe-late-round;Name=Full Swipe Late Round;Categories=backward,full;Prerequisites=full-late-round,full-swipe
+Id=full-swipe;Name=Full Swipe;Categories=backward,full;Prerequisites=full-twist
+Id=full-cobra;Name=Full Cobra;Categories=backward,full;Prerequisites=full-twist
+Id=corkscrew;Name=Corkscrew;Categories=backward,corkscrew;Prerequisites=gainer-flash
+Id=full-feilong-knife;Name=Full Feilong Knife;Categories=backward,full;Prerequisites=full-feilong,full-shuriken-hyperhook
+Id=full-hyper;Name=Full Hyper;Categories=backward,full;Prerequisites=full-twist
+Id=rodeo-corkscrew;Name=Rodeo Corkscrew;Categories=backward,corkscrew;Prerequisites=corkscrew
+Id=flash-helicoptero;Name=Flash Helicoptero;Categories=backward,backflip;Prerequisites=flash-kick,helicoptero
+Id=corkscrew-feilong;Name=Corkscrew Feilong;Categories=backward,corkscrew;Prerequisites=corkscrew-shuriken,corkscrew-round,pop-feilong
+Id=full-gumbi;Name=Full Gumbi;Categories=backward,full;Prerequisites=full-twist,aerial-twist-gumbi
+Id=full-up;Name=Full Up;Categories=backward,full;Prerequisites=full-twist
+Id=full-late-round;Name=Full Late Round;Categories=backward,full;Prerequisites=full-round
+Id=full-rocketboi;Name=Full Rocketboi;Categories=backward,full;Prerequisites=rocketboi,full-twist
+Id=corkscrew-doubleleg-hyperhook;Name=Corkscrew Doubleleg Hyperhook;Categories=backward,corkscrew;Prerequisites=corkscrew-doubleleg
+Id=full-doubleleg;Name=Full Doubleleg;Categories=backward,full;Prerequisites=full-twist
+Id=full-terada-grab;Name=Full Terada Grab;Categories=backward,full;Prerequisites=full-hyperhook,terada-grab
+Id=full-twist;Name=Full Twist;Categories=backward,full;Prerequisites=arabian
+Id=full-wackknife;Name=Full Wackknife;Categories=backward,full;Prerequisites=full-twist,wackknife
+Id=full-tai-fighter;Name=Full Tai Fighter;Categories=backward,full;Prerequisites=pop-tai-fighter,full-round
+Id=filipino;Name=Filipino;Categories=backward,full;Prerequisites=full-hyper,arabian
+Id=rodeo-full;Name=Rodeo Full;Categories=backward,full;Prerequisites=full-twist
+Id=corkscrew-crowd-awakener;Name=Corkscrew Crowd Awakener;Categories=backward,corkscrew;Prerequisites=corkscrew
+Id=donut-boy-hyperhook;Name=Donut Boy Hyperhook;Categories=backward,corkscrew;Prerequisites=donut-boy
+Id=dragonfly-corkscrew;Name=Dragonfly Corkscrew;Categories=backward,corkscrew;Prerequisites=corkscrew
+Id=arabian-half;Name=Arabian Half;Categories=backward,full;Prerequisites=arabian,full-twist
+Id=full-crowd-awakener;Name=Full Crowd Awakener;Categories=backward,full;Prerequisites=full-twist
+Id=full-down;Name=Full Down;Categories=backward,full;Prerequisites=full-twist
+Id=full-doubleleg-hawkeye;Name=Full Doubleleg Hawkeye;Categories=backward,full;Prerequisites=full-doubleleg
+Id=full-pike;Name=Full Pike;Categories=backward,full;Prerequisites=full-doubleleg,back-pike
+Id=corkscrew-doubleleg-late-round;Name=Corkscrew Doubleleg Late Round;Categories=backward,corkscrew;Prerequisites=corkscrew-doubleleg,corkscrew-late-round
+Id=corkscrew-swipe-late-swipe;Name=Corkscrew Swipe Late Swipe;Categories=backward,corkscrew;Prerequisites=corkscrew-late-round
+Id=dragonfly-corkscrew-feilong-knife;Name=Dragonfly Corkscrew Feilong Knife;Categories=backward,corkscrew;Prerequisites=dragonfly-corkscrew,corkscrew-feilong-knife
+Id=dragonfly-corkscrew-sidewinder-late-round;Name=Dragonfly Corkscrew Sidewinder Late Round;Categories=backward,corkscrew;Prerequisites=gainer-sidewinder,dragonfly-corkscrew
+Id=rodeo-corkscrew-shuriken-cutter;Name=Rodeo Corkscrew Shuriken Cutter;Categories=backward,corkscrew;Prerequisites=rodeo-corkscrew,shuriken-cutter
+Id=arabian-unhalf-in-back-out;Name=Arabian Unhalf-In Back-Out;Categories=backward,full;Prerequisites=arabian-unhalf
+Id=full-in-back-out-hyper;Name=Full-In Back-Out Hyper;Categories=backward,full;Prerequisites=full-in-back-out
+Id=full-tai-fighter-hyperhook;Name=Full Tai-Fighter Hyperhook;Categories=backward,full;Prerequisites=full-hyperhook
+Id=gainer-scissor-swipe;Name=Gainer Scissor Swipe;Categories=backward,gainer;Prerequisites=gainer-scissor
+Id=double-full;Name=Double Full;Categories=backward,full;Prerequisites=full-hyper
+Id=corkscrew-skullsnapper;Name=Corkscrew Skullsnapper;Categories=backward,corkscrew;Prerequisites=double-corkscrew
+Id=dragonfly-double-corkscrew-round;Name=Dragonfly Double Corkscrew Round;Categories=backward,corkscrew;Prerequisites=dragonfly-double-corkscrew
+Id=rocketboi-scissor-snapu;Name=Rocketboi Scissor Snapu;Categories=backward,full;Prerequisites=rocketboi,full-snapu
+Id=corkscrew-mcdirty;Name=Corkscrew McDirty;Categories=backward,corkscrew;Prerequisites=corkscrew-feilong,corkscrew-snapu
+Id=rodeo-corkscrew-snapu;Name=Rodeo Corkscrew Snapu;Categories=backward,corkscrew;Prerequisites=rodeo-corkscrew,double-corkscrew
+Id=double-corkscrew-doubleleg;Name=Double Corkscrew Doubleleg;Categories=backward,corkscrew;Prerequisites=double-corkscrew,corkscrew-doubleleg
+Id=full-snapu-round;Name=Full Snapu Round;Categories=backward,full;Prerequisites=full-snapu
+Id=double-full-swipeknife;Name=Double Full Swipeknife;Categories=backward,full;Prerequisites=double-full-swipe,double-full-hyperhook
+Id=full-snapu-doubleleg;Name=Full Snapu Doubleleg;Categories=backward,full;Prerequisites=full-snapu,double-full-doubleleg
+Id=corkscrew-doubleleg-twist;Name=Corkscrew Doubleleg Twist;Categories=backward,corkscrew;Prerequisites=corkscrew-doubleleg,double-corkscrew
+Id=full-up-rocketboi-twist;Name=Full Up Rocketboi Twist;Categories=backward,full;Prerequisites=full-rocketboi
+Id=kick-full-snapu;Name=Kick Full Snapu;Categories=backward,full;Prerequisites=none
+Id=full-snapu-hyper;Name=Full Snapu Hyper;Categories=backward,full;Prerequisites=full-snapu
+Id=full-up-twist;Name=Full Up Twist;Categories=backward,full;Prerequisites=full-up,double-full
+Id=double-corkscrew-shuriken;Name=Double Corkscrew Shuriken;Categories=backward,corkscrew;Prerequisites=double-corkscrew,corkscrew-shuriken
+Id=shurikane;Name=Shurikane;Categories=backward,corkscrew;Prerequisites=shuriken-cutter
+Id=double-full-shuriken-hyperhook-turbo;Name=Double Full Shuriken Hyperhook Turbo;Categories=backward,full;Prerequisites=double-full-shuriken-hyperhook
+Id=rodeo-full-snapu;Name=Rodeo Full Snapu;Categories=backward,full;Prerequisites=rodeo-full,full-snapu
+Id=shuriken-cutter-scissor;Name=Shuriken Cutter Scissor;Categories=backward,corkscrew;Prerequisites=shuriken-cutter
+Id=corkscrew-sidewinder;Name=Corkscrew Sidewinder;Categories=backward,corkscrew;Prerequisites=sidewinder,double-corkscrew
+Id=peter-pan-double-corkscrew;Name=Peter Pan Double Corkscrew;Categories=backward,corkscrew;Prerequisites=corkscrew
+Id=double-corkscrew;Name=Double Corkscrew;Categories=backward,corkscrew;Prerequisites=corkscrew-hyper
+Id=double-back-tuck;Name=Double Back Tuck;Categories=backward,backflip;Prerequisites=back-tuck
+Id=full-cobra-twist;Name=Full Cobra Twist;Categories=backward,full;Prerequisites=full-cobra,double-full
+Id=full-crowd-awakener-snapu;Name=Full Crowd Awakener Snapu;Categories=backward,full;Prerequisites=full-crowd-awakener,full-snapu
+Id=dragonfly-double-corkscrew;Name=Dragonfly Double Corkscrew;Categories=backward,corkscrew;Prerequisites=dragonfly-corkscrew,double-corkscrew
+Id=arabian-scissor-half;Name=Arabian Scissor Half;Categories=backward,full;Prerequisites=full-scissor
+Id=corkscrew-kyro;Name=Corkscrew Kyro;Categories=backward,corkscrew;Prerequisites=boxcutter,double-corkscrew
+Id=kick-double-full;Name=Kick Double Full;Categories=backward,full;Prerequisites=kick-full
+Id=full-mcdirty;Name=Full McDirty;Categories=backward,full;Prerequisites=full-feilong,full-snapu
+Id=corkscrew-snapu-hyper;Name=Corkscrew Snapu Hyper;Categories=backward,corkscrew;Prerequisites=corkscrew-snapu
+Id=full-snapu-swipe;Name=Full Snapu Swipe;Categories=backward,full;Prerequisites=full-snapu
+Id=sheep-shearer;Name=Sheep Shearer;Categories=backward,corkscrew;Prerequisites=double-corkscrew,boxcutter
+Id=full-snapu;Name=Full Snapu;Categories=backward,full;Prerequisites=full-swipe,double-full
+Id=double-full-swipe;Name=Double Full Swipe;Categories=backward,full;Prerequisites=full-swipe,double-full
+Id=double-corkscrew-wackknife;Name=Double Corkscrew Wackknife;Categories=backward,corkscrew;Prerequisites=corkscrew-wackknife,double-corkscrew
+Id=double-full-hyperhook;Name=Double Full Hyperhook;Categories=backward,full;Prerequisites=full-hyperhook,double-full
+Id=corkscrew-snapu;Name=Corkscrew Snapu;Categories=backward,corkscrew;Prerequisites=double-corkscrew,corkscrew-swipe
+Id=double-corkscrew-round;Name=Double Corkscrew Round;Categories=backward,corkscrew;Prerequisites=double-corkscrew,corkscrew-round
+Id=rodeo-corkscrew-twist;Name=Rodeo Corkscrew Twist;Categories=backward,corkscrew;Prerequisites=rodeo-corkscrew,double-corkscrew
+Id=gainer-scissor-twist;Name=Gainer Scissor Twist;Categories=backward,corkscrew;Prerequisites=gainer-scissor
+Id=full-snapu-hyperhook;Name=Full Snapu Hyperhook;Categories=backward,full;Prerequisites=full-snapu,double-full-hyperhook
+Id=double-corkscrew-shuriken-cutter;Name=Double Corkscrew Shuriken Cutter;Categories=backward,corkscrew;Prerequisites=sheep-shearer,shuriken-cutter
+Id=double-full-shurikane;Name=Double Full Shurikane;Categories=backward,full;Prerequisites=double-full-shuriken-hyperhook
+Id=double-full-doubleleg;Name=Double Full Doubleleg;Categories=backward,full;Prerequisites=full-doubleleg,double-full
+Id=full-kyro;Name=Full Kyro;Categories=backward,full;Prerequisites=full-hyperhook,double-full
+Id=double-full-shuriken-hyperhook;Name=Double Full Shuriken Hyperhook;Categories=backward,full;Prerequisites=double-full-hyperhook,full-shuriken-hyperhook
+Id=double-full-round;Name=Double Full Round;Categories=backward,full;Prerequisites=double-full
+Id=full-doubleleg-twist;Name=Full Doubleleg Twist;Categories=backward,full;Prerequisites=full-doubleleg,double-full
+Id=full-doubleleg-twist-doubleleg;Name=Full Doubleleg Twist Doubleleg;Categories=backward,full;Prerequisites=full-doubleleg-twist
+Id=double-nike;Name=Double Nike;Categories=backward,backflip;Prerequisites=double-back-tuck
+Id=dragonfly-double-corkscrew-hyperhook;Name=Dragonfly Double Corkscrew Hyperhook;Categories=backward,corkscrew;Prerequisites=dragonfly-double-corkcrew,double-corkscrew-hyperhook
+Id=corkscrew-shuriken-kyro;Name=Corkscrew Shuriken Kyro;Categories=backward,corkscrew;Prerequisites=shuriken-cutter,corkscrew-kyro
+Id=full-shuriken-hyperhook-feilong;Name=Full Shuriken Hyperhook Feilong;Categories=backward,full;Prerequisites=full-shuriken-hyperhook
+Id=full-snapu-in-back-out;Name=Full Snapu-In Back-Out;Categories=backward,full;Prerequisites=full-snapu,double-full-in-back-out
+Id=arabian-pike-snapu;Name=Arabian Pike Snapu;Categories=backward,full;Prerequisites=arabian-pike,full-snapu
+Id=ironman-full-snapu;Name=Ironman Full Snapu;Categories=backward,full;Prerequisites=ironman-full,full-snapu
+Id=full-shurikane;Name=Full Shurikane;Categories=backward,full;Prerequisites=full-shuriken-hyperhook
+Id=triple-full-hyper;Name=Triple Full Hyper;Categories=backward,full;Prerequisites=triple-full
+Id=double-full-doubleleg-double-twist;Name=Double Full Doubleleg Double Twist;Categories=backward,full;Prerequisites=quad-full,double-full-doubleleg-twist
+Id=x-out-in-back-out;Name=X-Out-In Back-Out;Categories=backward,backflip;Prerequisites=double-back-tuck
+Id=full-doubleleg-double-twist;Name=Full Doubleleg Double Twist;Categories=backward,full;Prerequisites=full-doubleleg-twist,triple-full
+Id=quad-corkscrew;Name=Quad Corkscrew;Categories=backward,corkscrew;Prerequisites=quad-full,triple-corkscrew
+Id=dragonfly-triple-corkscrew;Name=Dragonfly Triple Corkscrew;Categories=backward,corkscrew;Prerequisites=dragonfly-double-corkscrew,triple-corkscrew
+Id=full-in-back-out;Name=Full-In Back-Out;Categories=backward,full;Prerequisites=double-back-tuck
+Id=triple-full-round;Name=Triple Full Round;Categories=backward,full;Prerequisites=triple-full,double-full-round
+Id=frappe;Name=Frappe;Categories=backward,full;Prerequisites=full-late-round
+Id=double-full-crowd-awakener;Name=Double Full Crowd Awakener;Categories=backward,full;Prerequisites=double-full,full-crowd-awakener
+Id=double-full-snapu;Name=Double Full Snapu;Categories=backward,full;Prerequisites=full-snapu,triple-full
+Id=double-layout;Name=Double Layout;Categories=backward,backflip;Prerequisites=double-back-tuck
+Id=double-full-in-back-out;Name=Double Full-In Back-Out;Categories=backward,full;Prerequisites=full-in-back-out
+Id=double-gainer;Name=Double Gainer;Categories=backward,gainer;Prerequisites=gainer-tuck
+Id=popcorn;Name=Popcorn;Categories=backward,full;Prerequisites=full-pike
+Id=double-corkscrew-snapu;Name=Double Corkscrew Snapu;Categories=backward,corkscrew;Prerequisites=triple-corkscrew,corkscrew-snapu
+Id=full-snapu-twist;Name=Full Snapu Twist;Categories=backward,full;Prerequisites=full-snapu,triple-full
+Id=snatch-cannon;Name=Snatch Cannon;Categories=backward,corkscrew;Prerequisites=corkscrew,full-in
+Id=quad-full;Name=Quad Full;Categories=backward,full;Prerequisites=triple-full
+Id=double-full-doubleleg-twist;Name=Double Full Doubleleg Twist;Categories=backward,full;Prerequisites=double-full-doubleleg,triple-full
+Id=back-in-squirrel-out;Name=Back-In Squirrel-Out;Categories=backward,backflip;Prerequisites=double-back-tuck
+Id=double-corkscrew-doubleleg-twist;Name=Double Corkscrew Doubleleg Twist;Categories=backward,corkscrew;Prerequisites=triple-corkscrew,double-corkscrew-doubleleg
+Id=double-arabian;Name=Double Arabian;Categories=backward,backflip;Prerequisites=arabian
+Id=back-in-rocketboi-out;Name=Back-In Rocketboi-Out;Categories=backward,backflip;Prerequisites=double-back-tuck
+Id=triple-full;Name=Triple Full;Categories=backward,full;Prerequisites=double-full
+Id=rocketboi-full-doubleleg-rocketboi;Name=Rocketboi Full Doubleleg Rocketboi;Categories=backward,full;Prerequisites=full-rocketboi
+Id=popcorn-hyper;Name=Popcorn Hyper;Categories=backward,full;Prerequisites=popcorn
+Id=triple-corkscrew;Name=Triple Corkscrew;Categories=backward,corkscrew;Prerequisites=double-corkscrew,triple-full
+Id=full-snapu-snapu;Name=Full Snapu Snapu;Categories=backward,full;Prerequisites=full-snapu,triple-full
+Id=terada-grab-in-shant-out;Name=Terada Grab In Shant Out;Categories=backward,backflip;Prerequisites=terada-grab
+Id=double-full-snapu-twist;Name=Double Full Snapu Twist;Categories=backward,full;Prerequisites=double-full-snapu,quad-full
+Id=back-in-x-out;Name=Back-In X-Out;Categories=backward,backflip;Prerequisites=double-back-tuck
+Id=full-in-full-out;Name=Full-In Full-Out;Categories=backward,full;Prerequisites=full-in-back-out
+Id=sideflip-unwind-sideflip;Name=Sideflip Unwind Sideflip;Categories=backward,backflip;Prerequisites=sideflip
+Id=shurikane-late-hook;Name=Shurikane Late Hook;Categories=backward,corkscrew;Prerequisites=shurikane
+Id=triple-corkscrew-round;Name=Triple Corkscrew Round;Categories=backward,corkscrew;Prerequisites=triple-corkscrew
+Id=double-full-mcdirty;Name=Double Full McDirty;Categories=backward,full;Prerequisites=double-full-snapu
+Id=triple-full-hyperhook;Name=Triple Full Hyperhook;Categories=backward,full;Prerequisites=triple-full,double-full-hyperhook
+Id=triple-full-shuriken-hyperhook;Name=Triple Full Shuriken Hyperhook;Categories=backward,full;Prerequisites=triple-full-hyperhook
+Id=full-feilong-late-swipeknife;Name=Full Feilong Late Swipeknife;Categories=backward,full;Prerequisites=full-feilong
+Id=gainer-in-shant-out;Name=Gainer-In Shant-Out;Categories=backward,gainer;Prerequisites=gainer

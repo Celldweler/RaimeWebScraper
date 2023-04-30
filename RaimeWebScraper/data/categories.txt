@@ -1,0 +1,25 @@
+id=backward-tricks;name=Backward Tricks;parent_id=none
+id=backflip;name=Backflip;parent_id=backward-tricks
+id=gainer;name=Gainer;parent_id=backward-tricks
+id=full;name=Full;parent_id=backward-tricks
+id=corkscrew-tricks;name=Corkscrew Tricks;parent_id=backward-tricks
+id=forward-tricks;name=Forward Tricks;parent_id=none
+id=frontflip;name=Frontflip;parent_id=forward-tricks
+id=webster;name=Webster Tricks;parent_id=forward-tricks
+id=janitor;name=Janitor Tricks;parent_id=forward-tricks
+id=vertical-kicks;name=Vertical Kicks;parent_id=none
+id=pop;name=Pop;parent_id=vertical-kicks
+id=cheat;name=Cheat;parent_id=vertical-kicks
+id=swing-kicks;name=Swing Kicks;parent_id=vertical-kicks
+id=outside-tricks;name=Outside Tricks;parent_id=none
+id=raiz;name=Raiz;parent_id=outside-tricks
+id=doubleleg;name=Doubleleg;parent_id=outside-tricks
+id=lotus;name=Lotus;parent_id=outside-tricks
+id=sideflip;name=Sideflip;parent_id=outside-tricks
+id=spyder-tricks;name=Spyder Tricks;parent_id=outside-tricks
+id=inside-tricks;name=Inside Tricks;parent_id=none
+id=aerial;name=Aerial;parent_id=inside-tricks
+id=butterfly;name=Butterfly;parent_id=inside-tricks
+id=masterswing;name=Masterswing;parent_id=inside-tricks
+id=tak;name=Tak;parent_id=inside-tricks
+id=wrap-tricks;name=Wrap Tricks;parent_id=inside-tricks

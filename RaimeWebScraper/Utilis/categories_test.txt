@@ -1,0 +1,39 @@
+﻿public string Id { get; set; }
+        public string Name { get; set; }
+
+        public string ParentCategoryId { get; set; } = null;
+        public Category ParentCategory { get; set; } = null;
+
+        public List<string> SubCategories { get; set; } = null;
+
+
+First variant:
+id=test-test;name=test test;parentid=parent-id
+
+Second Variant:        
+id=test-test;name=test test;subs=[sub1,sub2,sub3]
+
+
+ public string Id { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public List<string> Categories { get; set; } = new List<string>();
+        public List<string> Prerequisites { get; set; }= new List<string>();
+        public List<string> Progressions { get; set; } = new List<string>();
+
+ROWS=6
+Num=1;Id=test-trick;Name=test trick;Categories=parentId,subId;Prerequisites=prereq1,prereq2
+Num=2;Id=test-trick;Name=test trick;Categories=parentId,subId;Prerequisites=prereq1,prereq2
+Num=3;Id=test-trick;Name=test trick;Categories=parentId,subId;Prerequisites=prereq1,prereq2
+Num=4;Id=test-trick;Name=test trick;Categories=parentId,subId;Prerequisites=prereq1,prereq2
+Num=5;Id=test-trick;Name=test trick;Categories=parentId,subId;Prerequisites=prereq1,prereq2
+Num=6;Id=test-trick;Name=test trick;Categories=parentId,subId;Prerequisites=prereq1,prereq2
+
+
+
+
+
+
+
+
+
